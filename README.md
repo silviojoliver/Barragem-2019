@@ -23,6 +23,7 @@ Minhas credenciais incluem uma Pôs Graduação em Banco de Dados Faculdade Ibra
 Veja os tutoriais publicados:
 
 * **Análise do Titanic:** https://bit.ly/2ZHyYUH
+* **Análise do suicidio no Brasil:** https://bit.ly/2XwLzY2
 
 
 ---
