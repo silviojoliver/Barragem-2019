@@ -15,7 +15,7 @@ Minhas credenciais incluem uma Pôs Graduação em Banco de Dados Faculdade Ibra
 **Background in:** Python
 
 **Links:**
-* [LinkedIn]https://www.linkedin.com/in/silviojoliver/)
+* [LinkedIn](https://www.linkedin.com/in/silviojoliver/)
 * [Medium](https://www.medium.com)
 
 
