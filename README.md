@@ -15,15 +15,14 @@ Minhas credenciais incluem uma Pôs Graduação em Banco de Dados Faculdade Ibra
 **Background in:** Python
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/silvio-oliver)
+* [LinkedIn]https://www.linkedin.com/in/silviojoliver/)
 * [Medium](https://www.medium.com)
 
 
 ## Projetos:
 Veja os tutoriais publicados:
 
-* **Análise do Titanic:** https://bit.ly/2ZHyYUH
-* **Análise do suicidio no Brasil:** https://bit.ly/2XwLzY2
+
 
 
 ---
